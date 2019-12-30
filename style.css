@@ -1,0 +1,18 @@
+.material-icons {
+                    color: green;
+}
+
+a {
+
+    color: teal;
+}
+
+btn {
+    border: 1px green solid;
+  
+}
+
+.page-footer {
+    margin-top: 20%;
+    background-color: teal;
+}
